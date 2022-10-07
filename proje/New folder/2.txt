@@ -1,0 +1,1 @@
+{"Galaxy S22": 10, "Galaxy S22 ULtra": 8, "Iphone13": 4, "Iphone13 Pro": 10, "Iphone14": 4, "Iphone14 ProMax": 0}
